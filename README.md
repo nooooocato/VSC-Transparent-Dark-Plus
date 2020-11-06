@@ -1,6 +1,6 @@
 # VSC-Transparent-Dark-Plus
 Custom Visual Studio Code style, Extension Needed.
-# still in progress, may cause some issues. Please open an issue.
+# Still in progress, may cause some issues. Please open an issue.
 
 ## How it works
 * CSS File <br>
