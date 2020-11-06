@@ -5,7 +5,7 @@ Custom Visual Studio Code style, Extension Needed.
 ## How it works
 * CSS File <br>
   This is a common CSS file, need a CSS injector to use. <br>
-  The Base color is black, if you don't have any extension to make `VSC Window` vibrancy, it just black(no transparent).
+  The Base color is black, if you don't have any extension to make `VSC Window` transparent/blur, it just black.
 
 ## Features/Goal
 * Transparent and blur.
@@ -24,4 +24,4 @@ Custom Visual Studio Code style, Extension Needed.
 2. Install extension [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) (Vibrancy doesn't need)
 3. Download `custom.css` and load into VSC, choose the Dark+ color theme.
 ### Install font (For SC/TC/JP/KR)
-Download [Resource Han Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) and install.
+Download [Resource Han Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) and install. It is develope for simplified Chinese. If you use other languages, please change it by yourself.
