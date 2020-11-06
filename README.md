@@ -22,7 +22,7 @@ Custom Visual Studio Code style, Extension Needed.
    3. [Windows opacity](https://marketplace.visualstudio.com/items?itemName=skacekachna.win-opacity)
    4. [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy) <br>
    Just choose the one you like🤪.
-2. Install extension [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) (Vibrancy doesn't need)
+2. Install extension [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) (Except Vibrancy)
 3. Download `custom.css` and load into VSC, choose the Dark+ color theme.
 ### Install font (For SC/TC/JP/KR)
 Download [Resource Han Rounded](https://github.com/CyanoHao/Resource-Han-Rounded) and install. <br>
