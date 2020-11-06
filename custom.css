@@ -1,3 +1,8 @@
+:root{
+  --glasscord-win-blur: blurbehind;
+  --glasscord-linux-blur: true;
+  --glasscord-mac-vibrancy: fullscreen-ui;
+}
 /* 平滑滚动基础色 */
 html,
 body {
