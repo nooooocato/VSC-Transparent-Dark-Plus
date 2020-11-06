@@ -1,7 +1,8 @@
 # VSC-Transparent-Dark-Plus
 Custom Visual Studio Code style, Extension Needed.
-# Still in progress, may cause some issues. Please open an issue.
-
+# Still in progress, may cause some issues. Please open an issue to let me know the bug.
+![png](https://github.com/kerocate/VSC-Transparent-Dark-Plus/blob/main/1.png)
+![png1](https://github.com/kerocate/VSC-Transparent-Dark-Plus/blob/main/2.png)
 ## How it works
 * CSS File <br>
   This is a common CSS file, need a CSS injector to use. <br>
