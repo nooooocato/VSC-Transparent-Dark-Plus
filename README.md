@@ -1,4 +1,5 @@
 # VSC-Transparent-Dark-Plus
+** VSC 1.51 backdrop-filter is broken **
 Custom Visual Studio Code style, Extension Needed.
 # Still in progress, may cause some issues. Please open an issue to let me know the bug.
 ![png](https://github.com/kerocate/VSC-Transparent-Dark-Plus/blob/main/1.png)
